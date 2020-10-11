@@ -1,1 +1,1 @@
-# facebook_wdc
+# Facebook Web Data Connector for Tableau
